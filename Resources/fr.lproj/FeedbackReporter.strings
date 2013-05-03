@@ -2,7 +2,7 @@
 "%@ has encountered an exception!" = "%@ a rencontré une erreur imprévue !";
 
 /* Message text for crash report */
-"%@ has recently crashed!" = "%@ a récemment rencontré un problème !";
+"%@ has recently crashed!" = "%@ a récemment planté !";
 
 /* */
 "anonymous" = "anonyme";
@@ -17,7 +17,7 @@
 "Console" = "Console";
 
 /* */
-"CrashLog" = "CrashLog";
+"CrashLog" = "Historique de plantage";
 
 /* */
 "Details" = "Détails";
